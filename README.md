@@ -26,13 +26,9 @@ Welcome to my EDA portfolio! This repository contains my data analysis projects 
 
 ---
 
-### 🔹 Zomato Data Analysis (Coming Soon)
-- Project in progress  
-
----
 ### 🔹 Big Basket Data Analysis
 -  Performed EDA on BigBasket dataset to analyze product categories, pricing, discounts, and customer ratings
-- 🔗 ()
+- 🔗 (https://github.com/pallavisandilya4-hash/Big_Basket_EDA)
 
 
 ## 🛠️ Tools Used
