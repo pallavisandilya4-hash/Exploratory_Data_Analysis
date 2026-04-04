@@ -22,7 +22,7 @@ Welcome to my EDA portfolio! This repository contains my data analysis projects 
 
 ### 🔹 Netflix Data Analysis
 - Explored Netflix dataset for content trends  
-- 🔗 (Add your repo link here later)
+- 🔗 (https://github.com/pallavisandilya4-hash/Netflix_EDA)
 
 ---
 
@@ -30,6 +30,10 @@ Welcome to my EDA portfolio! This repository contains my data analysis projects 
 - Project in progress  
 
 ---
+### 🔹 Big Basket Data Analysis
+-  Performed EDA on BigBasket dataset to analyze product categories, pricing, discounts, and customer ratings
+- 🔗 ()
+
 
 ## 🛠️ Tools Used
 - Python  
