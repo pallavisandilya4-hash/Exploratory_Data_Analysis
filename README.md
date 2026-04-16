@@ -34,7 +34,7 @@ Welcome to my EDA portfolio! This repository contains my data analysis projects 
 
 ### 🔹Zomato Data Analysis
 -  Performed EDA on Zomato dataset to analyze Indian Restaurants
-- 🔗 (
+- 🔗 (https://github.com/pallavisandilya4-hash/Zomato-EDA-Project)
 
 
 ## 🛠️ Tools Used
